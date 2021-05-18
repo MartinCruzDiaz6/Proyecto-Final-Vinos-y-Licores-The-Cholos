@@ -1,0 +1,28 @@
+.form{
+    position: relative;
+    width: 500px;
+    height: 400px;
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: #B0A35D;
+    border-radius: 20px;
+    border: 1px solid #141313;
+    margin: auto;
+}
+
+input[type=text],[type=password]{
+    width: 470px;
+    height: 35px;
+    font: 14px normal normal uppercase helvetica, arial, serif;
+}
+
+input[type=submit]{
+    position: relative;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 50px;
+    border: 0px;
+    background-color:#F1AC8F;
+    font: 14px normal normal uppercase helvetica, arial, serif;
+}
